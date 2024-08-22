@@ -1,0 +1,3 @@
+baseURL = 'https://gcc321.github.io/'
+languageCode = 'en-us'
+title = 'GCC321s Blog'
